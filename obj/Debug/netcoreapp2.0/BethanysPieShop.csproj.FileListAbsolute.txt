@@ -1,0 +1,11 @@
+C:\Users\diksha.gulati\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.csprojAssemblyReference.cache
+C:\Users\diksha.gulati\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.csproj.CoreCompileInputs.cache
+C:\Users\diksha.gulati\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.AssemblyInfoInputs.cache
+C:\Users\diksha.gulati\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.AssemblyInfo.cs
+C:\Users\diksha.gulati\source\repos\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.deps.json
+C:\Users\diksha.gulati\source\repos\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.runtimeconfig.json
+C:\Users\diksha.gulati\source\repos\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.runtimeconfig.dev.json
+C:\Users\diksha.gulati\source\repos\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.dll
+C:\Users\diksha.gulati\source\repos\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.pdb
+C:\Users\diksha.gulati\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.dll
+C:\Users\diksha.gulati\source\repos\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.pdb
